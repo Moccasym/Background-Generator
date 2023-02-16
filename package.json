@@ -1,0 +1,22 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "Creates 2 dissolving background colors",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moccasym/Background-Generator.git"
+  },
+  "author": "Felix Steinchen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moccasym/Background-Generator/issues"
+  },
+  "homepage": "https://github.com/Moccasym/Background-Generator#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
